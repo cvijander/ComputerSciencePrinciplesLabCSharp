@@ -16,7 +16,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             
             ChangeScore();
         }
-
+        // change the score of the game and output to the console 
         public static void ChangeScore()
         {
             myScore = myScore + 100;
