@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
