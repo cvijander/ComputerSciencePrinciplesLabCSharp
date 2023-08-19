@@ -15,13 +15,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Console.WriteLine($"Subtotal: {subtotal}");
 
-            double total = subtotal + CalculateTax(0.08);
+            double total = subtotal + CalculateTax(0.08,subtotal);
             Console.WriteLine($"Total: {total}");
         }
 
-        public static double CalculateTax(double taxRate)
+        public static double CalculateTax(double taxRate,double amountToTax)
         {
-            double tax = subtotal * taxRate;
+            double tax = amountToTax * taxRate;
             Console.WriteLine($"Tax:  { tax} ");
             return tax;
         }

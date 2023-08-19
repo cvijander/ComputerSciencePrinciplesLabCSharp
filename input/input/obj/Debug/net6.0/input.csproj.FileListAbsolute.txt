@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\bin\Debug\net6.0\input.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\bin\Debug\net6.0\input.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\bin\Debug\net6.0\input.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\bin\Debug\net6.0\input.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\bin\Debug\net6.0\input.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\input.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\input.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\input.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\input.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\input.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\input.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\refint\input.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\input.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\input.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\input\input\obj\Debug\net6.0\ref\input.dll
