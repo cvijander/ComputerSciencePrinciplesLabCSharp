@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\bin\Debug\net6.0\oroperator.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\bin\Debug\net6.0\oroperator.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\bin\Debug\net6.0\oroperator.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\bin\Debug\net6.0\oroperator.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\bin\Debug\net6.0\oroperator.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\oroperator.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\oroperator.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\oroperator.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\oroperator.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\oroperator.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\oroperator.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\refint\oroperator.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\oroperator.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\oroperator.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\oroperator\oroperator\obj\Debug\net6.0\ref\oroperator.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOueOM6gd/KANBaC/K/8O8O4WqxaAbwFChrFr65zdtVA9OC0vJhkEBK0MJFt5ooyZy4WQoD8VDpsFSIvoikhFw==",
+  "success": true,
+  "projectFilePath": "K:\\Linked learning presao sam\\Computer science principles\\Lab C#\\files to work\\oroperator\\oroperator\\oroperator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
