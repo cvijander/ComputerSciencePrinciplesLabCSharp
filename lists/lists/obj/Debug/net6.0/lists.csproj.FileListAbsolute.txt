@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\bin\Debug\net6.0\lists.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\bin\Debug\net6.0\lists.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\bin\Debug\net6.0\lists.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\bin\Debug\net6.0\lists.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\bin\Debug\net6.0\lists.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\lists.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\lists.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\lists.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\lists.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\lists.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\refint\lists.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\lists.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\lists.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\lists\lists\obj\Debug\net6.0\ref\lists.dll
