@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\bin\Debug\net6.0\forloops.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\bin\Debug\net6.0\forloops.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\bin\Debug\net6.0\forloops.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\bin\Debug\net6.0\forloops.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\bin\Debug\net6.0\forloops.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\forloops.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\forloops.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\forloops.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\forloops.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\forloops.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\forloops.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\refint\forloops.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\forloops.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\forloops.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\forloops\forloops\obj\Debug\net6.0\ref\forloops.dll

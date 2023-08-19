@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "agj8zIEcjxZ8AA7mpBgBhsnat9zBk0byDES3RbdGVvb+2sYHT/5FqlKsgLqbcNdBmK7T2j94blt7gvfAAoZ+pQ==",
+  "success": true,
+  "projectFilePath": "K:\\Linked learning presao sam\\Computer science principles\\Lab C#\\files to work\\forloops\\forloops\\forloops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
