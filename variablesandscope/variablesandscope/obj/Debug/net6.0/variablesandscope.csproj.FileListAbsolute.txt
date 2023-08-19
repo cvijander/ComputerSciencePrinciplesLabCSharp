@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\bin\Debug\net6.0\variablesandscope.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\bin\Debug\net6.0\variablesandscope.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\bin\Debug\net6.0\variablesandscope.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\bin\Debug\net6.0\variablesandscope.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\bin\Debug\net6.0\variablesandscope.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\variablesandscope.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\variablesandscope.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\variablesandscope.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\variablesandscope.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\variablesandscope.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\variablesandscope.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\refint\variablesandscope.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\variablesandscope.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\variablesandscope.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\variablesandscope\variablesandscope\obj\Debug\net6.0\ref\variablesandscope.dll
