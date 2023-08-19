@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\bin\Debug\net6.0\array.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\bin\Debug\net6.0\array.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\bin\Debug\net6.0\array.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\bin\Debug\net6.0\array.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\bin\Debug\net6.0\array.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\array.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\refint\array.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\array.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\array\array\obj\Debug\net6.0\ref\array.dll
