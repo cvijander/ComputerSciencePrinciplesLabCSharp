@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uyQ1NoJzp+LuTeWEJB55KIjeNifUYjUIwJCYCXP4jSYCV3eRxqoyy5FXvbYN4C6geHdQyL66tISWz5OU24/46Q==",
+  "success": true,
+  "projectFilePath": "K:\\Linked learning presao sam\\Computer science principles\\Lab C#\\files to work\\arrayloops\\arrayloops\\arrayloops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

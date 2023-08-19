@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\bin\Debug\net6.0\arrayloops.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\bin\Debug\net6.0\arrayloops.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\bin\Debug\net6.0\arrayloops.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\bin\Debug\net6.0\arrayloops.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\bin\Debug\net6.0\arrayloops.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\arrayloops.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\arrayloops.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\arrayloops.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\arrayloops.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\arrayloops.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\arrayloops.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\refint\arrayloops.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\arrayloops.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\arrayloops.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\arrayloops\arrayloops\obj\Debug\net6.0\ref\arrayloops.dll

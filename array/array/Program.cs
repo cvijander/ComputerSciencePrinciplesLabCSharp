@@ -4,4 +4,5 @@ string[] myArray = new string[] { "Doug", "Mike", "Matt", "Janet" };
 
 Console.WriteLine(myArray[0]);
 
-Console.WriteLine(myArray[4]);
+// Console.WriteLine(myArray[4]); out of bounds ...
+
