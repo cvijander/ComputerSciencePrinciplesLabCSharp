@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\bin\Debug\net6.0\returnvalues.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\bin\Debug\net6.0\returnvalues.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\bin\Debug\net6.0\returnvalues.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\bin\Debug\net6.0\returnvalues.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\bin\Debug\net6.0\returnvalues.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\returnvalues.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\returnvalues.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\returnvalues.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\returnvalues.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\returnvalues.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\returnvalues.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\refint\returnvalues.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\returnvalues.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\returnvalues.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\returnvalues\returnvalues\obj\Debug\net6.0\ref\returnvalues.dll
