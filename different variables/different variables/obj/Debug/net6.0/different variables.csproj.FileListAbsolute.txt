@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\bin\Debug\net6.0\different variables.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\bin\Debug\net6.0\different variables.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\bin\Debug\net6.0\different variables.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\bin\Debug\net6.0\different variables.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\bin\Debug\net6.0\different variables.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\different variables.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\different variables.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\different variables.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\different variables.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\different variables.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\different variables.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\refint\different variables.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\different variables.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\different variables.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\different variables\different variables\obj\Debug\net6.0\ref\different variables.dll
