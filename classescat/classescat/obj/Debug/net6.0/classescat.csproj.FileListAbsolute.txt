@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\bin\Debug\net6.0\classescat.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\bin\Debug\net6.0\classescat.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\bin\Debug\net6.0\classescat.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\bin\Debug\net6.0\classescat.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\bin\Debug\net6.0\classescat.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\classescat.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\classescat.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\classescat.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\classescat.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\classescat.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\classescat.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\refint\classescat.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\classescat.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\classescat.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\classescat\classescat\obj\Debug\net6.0\ref\classescat.dll

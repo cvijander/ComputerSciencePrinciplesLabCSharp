@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBarnZYZsuRPnuddFPFzU2Gg2MnujkJ7uhaQTvFGlK4uBIkufNIwATOZAIrO9xXuttB6uY2GtSIcOEgxR0USlQ==",
+  "success": true,
+  "projectFilePath": "K:\\Linked learning presao sam\\Computer science principles\\Lab C#\\files to work\\classescat\\classescat\\classescat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
