@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\bin\Debug\net6.0\conditionaltest.exe
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\bin\Debug\net6.0\conditionaltest.deps.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\bin\Debug\net6.0\conditionaltest.runtimeconfig.json
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\bin\Debug\net6.0\conditionaltest.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\bin\Debug\net6.0\conditionaltest.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\conditionaltest.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\conditionaltest.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\conditionaltest.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\conditionaltest.AssemblyInfo.cs
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\conditionaltest.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\conditionaltest.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\refint\conditionaltest.dll
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\conditionaltest.pdb
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\conditionaltest.genruntimeconfig.cache
+K:\Linked learning presao sam\Computer science principles\Lab C#\files to work\conditionaltest\conditionaltest\obj\Debug\net6.0\ref\conditionaltest.dll
